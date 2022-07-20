@@ -2,11 +2,11 @@
 
 <div>
  
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Toco020&show_icons=true&theme=buefy-dark&line_height=27" alt="Meus Stats do Github" style="max-width:100%;" height="180em">
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Toco020&show_icons=true&theme=chartreuse-dark&locale=pt-br&date_format=j%20M%5B%20Y%5D&hide_border=true&line_height=27" alt="Meus Stats do Github" style="max-width:100%;" height="180em">
   
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toco020&theme=buefy-dark&layout=compact&hide=vue" style="max-width:100%;" height="180em">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toco020&theme=chartreuse-dark&locale=pt-br&date_format=j%20M%5B%20Y%5D&hide_border=true&layout=compact&hide=vue" style="max-width:100%;" height="180em">
  
-   <img alt="Toco020" src="https://github-readme-streak-stats.herokuapp.com?user=Toco020&theme=buefy-dark&locale=pt-br&date_format=j%20M%5B%20Y%5D&hide_border=true" style="max-width:100%;" width="430" align="middle">
+   <img alt="Toco020" src="https://github-readme-streak-stats.herokuapp.com?user=Toco020&theme=chartreuse-dark&locale=pt-br&date_format=j%20M%5B%20Y%5D&hide_border=true" style="max-width:100%;" width="430" align="middle">
   
  </a>
 </div>
