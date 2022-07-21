@@ -18,9 +18,9 @@
  
   <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" style="max-width:100%;" width="90" height="30"       align="middle">
 
-</div>
+</div>-->
 
-<hr>-->
+<hr>
 
 <div>
  
