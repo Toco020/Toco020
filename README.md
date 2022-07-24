@@ -30,5 +30,7 @@
  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
    <img alt="Readme Streak Stats" src="https://img.shields.io/badge/-Readme%20Streak%20Stats-brightgreen" style="max-width:100%;"/>
  </a>
-![Snake animation](https://github.com/ldmfabio/ldmfabio/blob/output/github-contribution-grid-snake.svg)
+
 </div>
+
+![Snake animation](https://github.com/ldmfabio/ldmfabio/blob/output/github-contribution-grid-snake.svg)
