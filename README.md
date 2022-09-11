@@ -1,12 +1,12 @@
 <h2 align="center"> Cypherpunks write code. </h2>
 
-<div>
+<div align="center">
  
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Toco020&show_icons=true&theme=chartreuse-dark&locale=pt-br&date_format=j%20M%5B%20Y%5D&hide_border=true&line_height=27" alt="Meus Stats do Github" style="max-width:100%;" height="180em">
-  
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toco020&theme=chartreuse-dark&locale=pt-br&date_format=j%20M%5B%20Y%5D&hide_border=true&layout=compact&hide=vue" style="max-width:100%;" height="180em">
- 
-   <img alt="Toco020" src="https://github-readme-streak-stats.herokuapp.com?user=Toco020&theme=chartreuse-dark&locale=pt-br&date_format=j%20M%5B%20Y%5D&hide_border=true" style="max-width:100%;" width="430" align="middle">
+   <img src="https://github-readme-stats.vercel.app/api?username=Toco020&show_icons=true&theme=chartreuse-dark&locale=pt-br&date_format=j%20M%5B%20Y%5D&hide_border=true&line_height=27" alt="Meus Stats do Github" style="max-width:100%;" height="190em">
+  <br>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toco020&theme=chartreuse-dark&locale=pt-br&date_format=j%20M%5B%20Y%5D&hide_border=true&layout=compact&hide=vue" style="max-width:100%;" height="190em">
+ <br>
+   <img alt="Toco020" src="https://github-readme-streak-stats.herokuapp.com?user=Toco020&theme=chartreuse-dark&locale=pt-br&date_format=j%20M%5B%20Y%5D&hide_border=true" style="max-width:100%;" height="190em">
   
  </a>
 </div>
@@ -22,7 +22,7 @@
 
 <hr>
 
-<div>
+<div align="center">
  
  <a href="https://github.com/Toco020">
    <img alt="Meu Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="max-width:100%;"/>
