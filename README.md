@@ -34,11 +34,11 @@
 
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=25&center=true&vCenter=true&width=1000&lines=Visit+Counter)](https://github/Toco020/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6200ee&size=25&center=true&vCenter=true&width=1000&lines=Visit+Counter)](https://github/Toco020/)
 <p><img src="https://profile-counter.glitch.me/{Toco020}/count.svg" /></p> 
 
 </div>
-<img style="margin-top:10px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e83d84&height=120&section=footer"/>
+<img style="margin-top:10px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6200ee&height=120&section=footer"/>
 
 ![Snake gif](https://github.com/ldmfabio/ldmfabio/blob/output/github-contribution-grid-snake-dark.svg)
 <!--
