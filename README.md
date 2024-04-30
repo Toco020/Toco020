@@ -15,7 +15,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Toco020&bg_color=30,202020,6200ee&title_color=fff&text_color=fff" />
 </a>
 <a href="https://github.com/Toco020">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toco020&layout=donut&bg_color=30,6200ee,f8f8f8&title_color=6200ee&text_color=8ef5fa&icon_color=2596be)](https://github.com/Toco020/Toco020"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toco020&layout=donut&bg_color=30,6200ee,f5f5f5&title_color=202020&text_color=202020&icon_color=2596be)](https://github.com/Toco020/Toco020"/>
 </a>
   
 </div>
