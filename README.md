@@ -21,7 +21,7 @@
 </div>
 
 ##
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Toco020&bg_color=6200ee&color=ffffff&line=000000&point=7500ee&area=true&hide_border=true)](https://github.com/Toco020/Toco020)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Toco020&bg_color=6200ee&color=f5f5f5&line=000000&point=7500ee&area=true&hide_border=true)](https://github.com/Toco020/Toco020)
 
 <div style="display: inline_block width: 45%"><br>
   <img align="center" alt="Jonatas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
