@@ -41,5 +41,6 @@
 <img style="margin-top:10px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e83d84&height=120&section=footer"/>
 
 ![Snake gif](https://github.com/ldmfabio/ldmfabio/blob/output/github-contribution-grid-snake-dark.svg)
-<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg"></svg>
+<!--
 ![Snake gif](https://github.com/Toco020/Toco020/blob/output/github-contribution-grid-snake-dark.svg)
+-->
