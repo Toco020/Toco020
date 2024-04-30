@@ -41,7 +41,7 @@
 <h2 align="center" style="color: #e83d84;">Ladies And Gentlemen</h2>
 <div>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Fabio+Longo+De+Moura;I'm+39+years+old;I+am+from+São+Francisco,+SC;👨‍🏫+I’m+currently+working+at+IFC-Campus+Araquari;🏭+I’m+looking+to+collaborate+on+Fábrica+de+Software;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+José+Carlos+Isoppo+da+Cunha;I'm+26+years+old;I+am+from+Santa+Catarina,+SC;👨‍🏫+I’m+currently+working+at+Macario+Borba;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 </div>
 
@@ -49,10 +49,10 @@
 
 <div align="center">
   <a href="https://github.com/Toco020">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ldmfabio&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Toco020&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 <a href="https://github.com/Toco020">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldmfabio&layout=donut&bg_color=141424&title_color=e83d84&text_color=8ef5fa&icon_color=2596be)](https://github.com/ldmfabio/ldmfabio"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toco020&layout=donut&bg_color=141424&title_color=e83d84&text_color=8ef5fa&icon_color=2596be)](https://github.com/Toco020/Toco020"/>
 </a>
   
 </div>
