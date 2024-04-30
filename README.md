@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://github.com/Toco020">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Toco020&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Toco020&bg_color=30,000000,6200ee&title_color=fff&text_color=fff" />
 </a>
 <a href="https://github.com/Toco020">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toco020&layout=donut&bg_color=141424&title_color=e83d84&text_color=8ef5fa&icon_color=2596be)](https://github.com/Toco020/Toco020"/>
