@@ -1,6 +1,6 @@
 <!-- /////////////////////////////////////////////////////////////////////////////// -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e83d84&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6200ee&height=120&section=header"/>
 <h2 align="center" style="color: #e83d84;">Ladies And Gentlemen</h2>
 <div>
   
