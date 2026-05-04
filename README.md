@@ -70,7 +70,7 @@
 ## 👀 Visitantes
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Toco020&show_icons=true&bg_color=0B0B0F&title_color=00D1FF&text_color=FFFFFF&icon_color=00D1FF" />
+  <img src="https://komarev.com/ghpvc/?username=Toco020&color=00D1FF" />
 </p>
 
 ---
