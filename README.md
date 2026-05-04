@@ -55,22 +55,21 @@
 
 ## 📈 Atividade
 
-[![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Toco020&bg_color=202020&color=f5f5f5&line=8000ee&point=6200ee&area=true&hide_border=true)](https://github.com/Toco020)
+[![Graph](https://github-readme-activity-graph.vercel.app/graph?username=JIsoppo&bg_color=202020&color=f5f5f5&line=8000ee&point=6200ee&area=true&hide_border=true)](https://github.com/JIsoppo)
 
 ---
 
 ## 📬 Contato
 
-- GitHub: https://github.com/Toco020  
-- Email: *(coloque aqui se quiser)*  
-- LinkedIn: *(vale MUITO a pena adicionar)*  
+- GitHub: https://github.com/JIsoppo  
+- Email: joseisoppo016@gmail.com   
 
 ---
 
 ## 👀 Visitantes
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Toco020&color=00D1FF" />
+  <img src="https://komarev.com/ghpvc/?username=JIsoppo&color=00D1FF" />
 </p>
 
 ---
