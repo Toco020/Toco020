@@ -45,9 +45,9 @@
 
 <div align="center">
 
-<img height=180 src="https://github-readme-stats.vercel.app/api?username=Toco020&bg_color=30,202020,6200ee&title_color=fff&text_color=fff" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Toco020&show_icons=true&theme=tokyonight" />
 
-<img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toco020&layout=compact&bg_color=30,6200ee,202020&title_color=fff&text_color=fff" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toco020&layout=compact&theme=tokyonight" />
 
 </div>
 
@@ -70,7 +70,7 @@
 ## 👀 Visitantes
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Toco020/count.svg" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Toco020&show_icons=true&bg_color=0B0B0F&title_color=00D1FF&text_color=FFFFFF&icon_color=00D1FF" />
 </p>
 
 ---
