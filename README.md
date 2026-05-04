@@ -1,46 +1,78 @@
-<!-- /////////////////////////////////////////////////////////////////////////////// -->
-
+<!-- HEADER -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6200ee&height=120&section=header"/>
-<h2 align="center" style="color: #e83d84;">Ladies And Gentlemen</h2>
-<div>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6200ee&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+José+Carlos+Isoppo+da+Cunha;I'm+26+years+old;I+am+from+Santa+Catarina,+SC;👨‍🏫+I’m+currently+working+at+Macario+Borba;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-</div>
+<h1 align="center">👨‍💻 José Carlos Isoppo da Cunha</h1>
+<h3 align="center">Desenvolvedor & Educador | Criando soluções reais com tecnologia</h3>
 
+---
 
+## 🚀 Sobre mim
 
-<div align="center">
-  <a href="https://github.com/Toco020">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Toco020&bg_color=30,202020,6200ee&title_color=fff&text_color=fff" />
-</a>
-<a href="https://github.com/Toco020">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toco020&layout=donut&bg_color=70,6200ee,202020&title_color=fff&text_color=fff&icon_color=2596be)](https://github.com/Toco020/Toco020"/>
-</a>
-  
-</div>
+🎯 Desenvolvedor focado em projetos práticos e soluções reais  
+👨‍🏫 Professor explorando tecnologia na educação  
+📍 Santa Catarina, Brasil  
 
-##
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Toco020&bg_color=202020&color=f5f5f5&line=8000ee&point=6200ee&area=true&hide_border=true)](https://github.com/Toco020/Toco020)
+💡 Atualmente trabalhando no:
 
-<div style="display: inline_block width: 45%"><br>
-  <img align="center" alt="Jonatas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jonatas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jonatas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+### 🔥 Drivon
+> Sistema de gestão automotiva com foco em oficinas e controle de veículos
 
-##
+- 📱 App mobile (React Native / Expo)
+- ☁️ Integração com Firebase
+- 🧾 Controle de manutenção e histórico
+- 📊 Organização de dados em tempo real  
 
+👉 *(em breve link do repositório)*
+
+---
+
+## 🧠 Tecnologias
 
 <div align="center">
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6200ee&size=25&center=true&vCenter=true&width=1000&lines=Visit+Counter)](https://github/Toco020/)
-<p><img src="https://profile-counter.glitch.me/{Toco020}/count.svg" /></p> 
+
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 </div>
-<img style="margin-top:10px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6200ee&height=120&section=footer"/>
 
-![Snake gif](https://github.com/ldmfabio/ldmfabio/blob/output/github-contribution-grid-snake-dark.svg)
-<!--
-![Snake gif](https://github.com/Toco020/Toco020/blob/output/github-contribution-grid-snake-dark.svg)
--->
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height=180 src="https://github-readme-stats.vercel.app/api?username=Toco020&bg_color=30,202020,6200ee&title_color=fff&text_color=fff" />
+
+<img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toco020&layout=compact&bg_color=30,6200ee,202020&title_color=fff&text_color=fff" />
+
+</div>
+
+---
+
+## 📈 Atividade
+
+[![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Toco020&bg_color=202020&color=f5f5f5&line=8000ee&point=6200ee&area=true&hide_border=true)](https://github.com/Toco020)
+
+---
+
+## 📬 Contato
+
+- GitHub: https://github.com/Toco020  
+- Email: *(coloque aqui se quiser)*  
+- LinkedIn: *(vale MUITO a pena adicionar)*  
+
+---
+
+## 👀 Visitantes
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Toco020/count.svg" />
+</p>
+
+---
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6200ee&height=120&section=footer"/>
